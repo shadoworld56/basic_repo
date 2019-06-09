@@ -1,0 +1,59 @@
+/*CSS reset settings here*/
+*{
+    margin: 0 auto;
+    padding: 0px;
+    color: rgb(194,214,236);
+   }
+   #wrapper{
+    width: 1150px;
+    background-color:rgb(27,51,93);
+    margin: 0px auto;
+    padding: 15px;
+   }
+   #header{
+    background-color:rgb(207,48,54);
+    margin: 0px 0px 15px;
+    padding: 15px;
+    border-radius: 10px;
+   }
+   #navigation{
+    background-color: rgb(41,125,140);
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 15px 0px 0px;
+    border-radius: 20px;
+    padding: 15px;
+    
+   }
+   #main_content{
+       width: 905px;
+    background-color: rgb(14,24,34);
+    display: inline-block;
+    vertical-align: top;
+    padding: 15px;
+    border-radius: 20px;
+   }
+   #footer{
+    background-color: rgb(93,102,115);
+    margin: 15px 0px 0px 0px;
+    border-radius: 20px;
+    padding: 15px;
+   }
+   #info_list li{
+    padding: 5px;
+   }
+   ul{
+       padding-left: 15px;
+   }
+   a, p, li{
+       font-size: medium;
+   }
+   a{
+       color: rgb(106,221,230);
+   }
+   span{
+       color: rgb(106,120,245);
+   }
+   h2{
+       padding: 5px 0px;
+   }
